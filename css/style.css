@@ -1,24 +1,39 @@
-table{
-    color: darkblue;
-    border: 3px solid blue;
-    font-size: 30px;
+form{
     text-align: center;
-    padding: 10px;
 }
-th{
-    font-weight: bolder;   
-    color: lightgray; 
-    padding: 10px;
+input{
+    text-align: right;
+    padding: 5px;
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 4px;
+    width: 20%;
+    font-size: medium;
 }
-.center{
-    margin-left: auto;
-    margin-right: auto;
+label{
+    font-weight: bold;
 }
-.title{ 
-    font-weight: bolder;
-    font-size: 80px;   
-    color:darkblue;
+h1{
     text-align: center;
-    border: 3px solid blue;
-    
+    width: auto;
+    border: 1px black solid;
+    font-weight: bold;
 }
+#total{
+    font-weight: 500;
+}
+button{
+    background-color: lightcoral;
+    width: 80px;
+    padding: 5px;
+    border-radius: 4px;
+    font-size: large;
+    margin-left: 487px;
+}
+label{
+    width: 240px;
+    display: inline-block;
+    text-align: left;
+  }
+
+ 
